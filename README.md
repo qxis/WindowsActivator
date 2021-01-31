@@ -5,7 +5,7 @@ For any questions : qais#4074
 ## Installation
 
 [Click Here to download](https://cdn.discordapp.com/attachments/804937906417434647/805308473076219964/WindowsActivator.rar)
-1. Unzip the Rar 
+1. Unzip WindowsActivator.rar
 
 2. Go to DefenderControl folder & Open DefenderControl.exe
 
