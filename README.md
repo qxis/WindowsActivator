@@ -12,3 +12,5 @@ For any questions : qais#4074
 3. Click "Disable Windows Defender"
 
 4. Go to WindowsActivator.exe and click "Activate"
+
+![alt text](https://github.com/qxis/WindowsActivator/blob/main/preview.png?raw=true)
