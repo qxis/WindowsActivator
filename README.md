@@ -1,4 +1,4 @@
-# WindowsActivator v2.1
+# WindowsActivator
 
 For any questions : qais#4074
 
